@@ -96,5 +96,5 @@
 </table>
 
 ## :raised_hands: 如何開始問問題
-- 使用issue的方式發問
+- 使用issue發問諮詢: [參考步驟說明](https://github.com/AIoTcompetition/Technical_Support/blob/main/%E5%8F%83%E8%80%83%E6%AD%A5%E9%A9%9F%E8%AA%AA%E6%98%8E%20-%20%E4%BD%BF%E7%94%A8issue%E7%99%BC%E5%95%8F%E8%AB%AE%E8%A9%A2.md)
 - 請看範例: [(範例) PYNQ-Z2是否有安裝Pytorch的標準步驟或安裝說明](https://github.com/AIoTcompetition/Technical_Support/issues/2)
